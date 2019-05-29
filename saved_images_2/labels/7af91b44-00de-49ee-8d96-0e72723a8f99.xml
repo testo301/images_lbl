@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saved_images_2</folder>
+	<filename>7af91b44-00de-49ee-8d96-0e72723a8f99.png</filename>
+	<path>/home/ubuntu/image_labeling/images2/images/saved_images_2/7af91b44-00de-49ee-8d96-0e72723a8f99.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>136</ymin>
+			<xmax>47</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>
